@@ -1,0 +1,14 @@
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\Decola Tech\Projetos\trilha-net-poo-desafio-main\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\Decola Tech\Projetos\trilha-net-poo-desafio-main\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\Decola Tech\Projetos\trilha-net-poo-desafio-main\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\Decola Tech\Projetos\trilha-net-poo-desafio-main\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\Decola Tech\Projetos\trilha-net-poo-desafio-main\bin\Debug\net6.0\DesafioPOO.exe
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\Decola Tech\Projetos\trilha-net-poo-desafio-main\bin\Debug\net6.0\DesafioPOO.deps.json
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\Decola Tech\Projetos\trilha-net-poo-desafio-main\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\Decola Tech\Projetos\trilha-net-poo-desafio-main\bin\Debug\net6.0\DesafioPOO.dll
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\Decola Tech\Projetos\trilha-net-poo-desafio-main\bin\Debug\net6.0\DesafioPOO.pdb
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\Decola Tech\Projetos\trilha-net-poo-desafio-main\obj\Debug\net6.0\DesafioPOO.dll
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\Decola Tech\Projetos\trilha-net-poo-desafio-main\obj\Debug\net6.0\refint\DesafioPOO.dll
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\Decola Tech\Projetos\trilha-net-poo-desafio-main\obj\Debug\net6.0\DesafioPOO.pdb
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\Decola Tech\Projetos\trilha-net-poo-desafio-main\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\Decola Tech\Projetos\trilha-net-poo-desafio-main\obj\Debug\net6.0\ref\DesafioPOO.dll
