@@ -1,0 +1,14 @@
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\.NET Developer\DesafioHospedagem\bin\Debug\net8.0\DesafioHospedagem.exe
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\.NET Developer\DesafioHospedagem\bin\Debug\net8.0\DesafioHospedagem.deps.json
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\.NET Developer\DesafioHospedagem\bin\Debug\net8.0\DesafioHospedagem.runtimeconfig.json
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\.NET Developer\DesafioHospedagem\bin\Debug\net8.0\DesafioHospedagem.dll
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\.NET Developer\DesafioHospedagem\bin\Debug\net8.0\DesafioHospedagem.pdb
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\.NET Developer\DesafioHospedagem\obj\Debug\net8.0\DesafioHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\.NET Developer\DesafioHospedagem\obj\Debug\net8.0\DesafioHospedagem.AssemblyInfoInputs.cache
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\.NET Developer\DesafioHospedagem\obj\Debug\net8.0\DesafioHospedagem.AssemblyInfo.cs
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\.NET Developer\DesafioHospedagem\obj\Debug\net8.0\DesafioHospedagem.csproj.CoreCompileInputs.cache
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\.NET Developer\DesafioHospedagem\obj\Debug\net8.0\DesafioHospedagem.dll
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\.NET Developer\DesafioHospedagem\obj\Debug\net8.0\refint\DesafioHospedagem.dll
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\.NET Developer\DesafioHospedagem\obj\Debug\net8.0\DesafioHospedagem.pdb
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\.NET Developer\DesafioHospedagem\obj\Debug\net8.0\DesafioHospedagem.genruntimeconfig.cache
+C:\Users\guilhermefe\Documents\Pessoal\Estudos\BootCamps\C#\.NET Developer\DesafioHospedagem\obj\Debug\net8.0\ref\DesafioHospedagem.dll
